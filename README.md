@@ -23,7 +23,4 @@ This project analyzes sales data from a retail superstore to identify profit lea
 3. **Seasonality:** Sales consistently drop by 30% in January and February, suggesting a need for post-holiday marketing campaigns.
 4. **Geographic Gaps:** Identified 3 specific states where shipping costs are eating into 100% of the profit margin.
 
-## Project Structure
-- `Sales_Analysis_Python.ipynb`: The Jupyter Notebook containing all Python code.
-- `Sales_Dashboard.pbix`: The downloadable Power BI file.
-- `Superstore_Cleaned.csv`: The processed dataset used for the dashboard.
+   
