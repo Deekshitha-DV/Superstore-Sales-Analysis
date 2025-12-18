@@ -4,7 +4,7 @@
 This project analyzes sales data from a retail superstore to identify profit leaks and growth opportunities. By combining **Python** for data processing and statistical analysis with **Power BI** for interactive visualization, I provided actionable insights into product performance and customer segmentation.
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard_Overview.png)
+![Dashboard Preview](Sales_Dashboard.png)
 *(Click to view full size)*
 
 ## Tools & Technologies
